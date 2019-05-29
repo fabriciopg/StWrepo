@@ -1,2 +1,2 @@
 1) primeira versao do leiame
-2) segunda versao - fpga
+2) segunda versao - edbfpga
