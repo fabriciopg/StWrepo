@@ -1,3 +1,4 @@
 1) primeira versao do leiame
 2) segunda versao - edbfpga
 3) Editado no github
+4) alterado para conflito pelo github
