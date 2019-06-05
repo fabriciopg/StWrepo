@@ -2,3 +2,6 @@
 2) segunda versao - edbfpga
 3) Editado no github
 4) alteracao para diff
+5) alterado para conflito pelo github -- anterior
+6) alterado pelo one at 0506
+
